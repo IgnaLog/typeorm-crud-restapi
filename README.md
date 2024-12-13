@@ -30,7 +30,7 @@ The project follows a modular and scalable architecture:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/typeorm-crud-restapi.git
+git clone https://github.com/IgnaLog/typeorm-crud-restapi.git
 cd typeorm-crud-restapi
 ```
 
